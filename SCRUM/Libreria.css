@@ -1,0 +1,46 @@
+.nav-enlace{
+    display: inline-block;
+    background: salmon;
+    color: #fff
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    background: rosybrown;
+}
+nav{
+    background: rebeccapurple;
+    padding: 10px;
+}
+
+hl{
+    color:"#fff"
+    text-align: center
+}
+
+.galeria {
+    width: 90%;
+    margin: auto;
+    list-style: : none;
+    padding:20%;
+    flex-wrap: wrap;
+    box-sizing:border-box;
+    display: flex;
+}
+
+.galeria li {
+    margin: 20px;
+}
+.galeria ing{
+    width: 150px;
+    height: 100px;
+}
+
+.modal h3 {
+    color:#fff;
+    font-size: 30ox;
+    text-align:  center; 
+    margin: 15px 0
+}
+
+.imagen
